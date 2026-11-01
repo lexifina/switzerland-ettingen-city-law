@@ -1,0 +1,11 @@
+{
+  "path": "ch-bl-ettingen",
+  "code": "CH-BL-ETTINGEN",
+  "name": "Ettingen (city)",
+  "level": "municipality",
+  "parent": "ch-bl",
+  "repo": "https://github.com/lexifina/switzerland-ettingen-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (49 acts, 49 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

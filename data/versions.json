@@ -1,0 +1,691 @@
+{
+ "country": "CH-BL-ETTINGEN",
+ "acts": [
+  {
+   "slug": "1-1-1-go",
+   "short": "GO",
+   "title": "Gemeindeordnung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 10,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "252b0a1a31e666fc6abd11726a89046cef23abcce1b393f931309e33b86c9be0"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Verordnung über die Kommunikation und Information",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2019-01-14",
+     "units": 20,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "89a2d6667b783a0636924268d90a664d5fb218fee047c74d9ebfaceb86e64d31"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1",
+   "short": "SRS 1.4-1",
+   "title": "Verordnung über das amtliche Informationsblatt zu Gemeindewahlen nach dem Mehrheitswahlverfahren",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.4-1",
+   "versions": [
+    {
+     "from": "2023-12-01",
+     "units": 4,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.4-1",
+     "sha256": "47a040c875b1b7f93c60291dcf33239c1cd12ecce5109e8f7b429375720edb60"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Verwaltungs- und Organisationsreglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 14,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "c8977e3c8265580b501b5c0a3d5e00cdca217811d635ae4df5bf167ba5d0c093"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1",
+   "short": "SRS 1.6-1.1",
+   "title": "Geschäftsordnung des Gemeinderates",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.6-1.1",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 36,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.6-1.1",
+     "sha256": "465628713e43bc6ad2496685113cddf3db6fe04edb9e28c4d18dcf3c00c4b34c"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-behordenreglement",
+   "short": "Behördenreglement",
+   "title": "Reglement über Rechte, Pflichten und Entschädigung von Behörden, Organen und Nebenfunktionen",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 18,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "0340e2e9a043c1a07caaeb7695e18beb3836d10be0f7e58fd27f3bfd07332a6a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Verordnung zu den Kommissionen",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 11,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "dacf03242bffd7fddb8faa9309229a7144eea7a6540b4c3cba0daceb135e5256"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 75,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "214d351a67b9db713f7b0da7dda1192030e1ab1c9c90b5d2255f4c4e2c93714e"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Personalverordnung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 71,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "8d515171f23df81932813fd8d6726088645579f5d7c8a90a2b41504cb9afa1be"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-feb-reglement",
+   "short": "FEB-Reglement",
+   "title": "Reglement über die familienergänzende Kinderbetreuung und die frühe Förderung der deutschen Sprache",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 25,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "44b4f740ef26795435473fbcbc841d4a023386e4d977d36af2ae6ddcef850fda"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1-feb-verordnung",
+   "short": "FEB-Verordnung",
+   "title": "Verordnung zum Reglement über die familienergänzende Kinderbetreuung und die frühe Förderung der deutschen Sprache",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 8,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "72fd03367e5d8d45d1f54fa59c2138c637bbb81d9e0e820f65f540300f53ccf1"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1",
+   "short": "SRS 4.8-1",
+   "title": "Verordnung über Gemeindebeiträge an Ettinger Vereine",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 6,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "1799a3ec9eea39234faf09c355f664bb6cb751ae2c75bc39532835fbc6783ec6"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeireglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 46,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "67bc7398319c2cc2432c30680a4fc19acdc7bf3df4ac9aefaa22c47e0e7432f4"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1-1",
+   "short": "SRS 5.1-1.1",
+   "title": "Verordnung zum Polizeireglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/5.1-1.1",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 31,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/5.1-1.1",
+     "sha256": "fc404cf505d27369eed85c65b20dd6e6f95a0a6ed4c7bb36397b7825a4eba36b"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehr-Reglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 19,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "0bf0858485085ca69b885b0d514be9a5de67804b4beb40392bd448bd2e06918d"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Verordnung zum Feuerwehr-Reglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 8,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "d0d3f12aa5cce04577c31ca4920356eae47f778e9e9572d712891c07ec9fc9d7"
+    }
+   ]
+  },
+  {
+   "slug": "6-3-1",
+   "short": "SRS 6.3-1",
+   "title": "Reglement über die Erhebung der Gemeindesteuern",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.3-1",
+   "versions": [
+    {
+     "from": "2001-01-24",
+     "units": 10,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.3-1",
+     "sha256": "a0cb9ed886c0369f1d0f54628b7d12a2f4b14bc8d5c6c72077fd81b84ced7df5"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebührenordnung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2017-09-18",
+     "units": 30,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "fdca2bbb1dbef3e5e319bad2c82468d5ee54936d8957bfbff339c6d51d6e41cf"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Verordnung über die Benutzung der «Schul- und Sportanlage Hintere Matten»",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 41,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "be7fdd296174a87d5e539f8c24af982298a1c117f974d6591d6acf00adca5281"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Verordnung über die Benutzung der «Sportanlage Toggesematt»",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 36,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "ad7355fbea1ee577c640c9818e9cf18b9cb5d6f83efbe344cd1869413c505ab2"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Verordnung über die Benutzung «bisheriges Werkhofareal»",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 21,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "b53d7d79465fa13b955accdbb837010768c58e1102ee3c4b75066e29a8bbb220"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Verordnung über die Benutzung des Theoriesaals im Feuerwehrmagazin",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 10,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "b9be0855e32e2c89971f435dd8d07335363d6d4542e5540d35a03603aa0c021a"
+    }
+   ]
+  },
+  {
+   "slug": "6-8-1",
+   "short": "SRS 6.8-1",
+   "title": "Verordnung zum Beschaffungswesen",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/6.8-1",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 12,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/6.8-1",
+     "sha256": "543146f18a57b75dd174dc1b3f9aa34ab5eb31d8ec742d5805a22013e4e0ac3a"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Zonenreglement Siedlung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 78,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "807f32e07549454967f89b6430cf9fbf1ee8d4505dc21aa24e254c1034b42610"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Zonenreglement Landschaft",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 37,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "db85aa16a35be8805647cf905f527bd5895bf15a9bf17352f513199822059814"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4",
+   "short": "SRS 7.1-4",
+   "title": "Reglement über die Ersatzabgabe für nicht realisierbare Parkplätze in der Kernzone",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 13,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "6e35d91dcf60d3c34b0963557e756f01dc34fc871c8a8df8830138dd6234ee4f"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Reglement über die Feuerungskontrolle",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 16,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "4f218e4463d3ee9dd218b8ec926efbaceb6a3ef2c5d89ed1e263d2caaa6b5e43"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Reglement über die Förderung von Solaranlagen",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 6,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "415d09868d8038dbc67d53e82a8a49ad15b090404e79ae4da9d80984df40ea06"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Wasser-Reglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 50,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "bba290956b1ea00b8023eec415ffd2186dc270d97f44737ff3210cb490b667a0"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasser-Reglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 34,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "9f7246986bbcb8f30de0fc3918e3c73a03e014f09f1cbdf0d88ed85868507362"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Abfallreglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 18,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "d567934de1fdcd68f307c949a2c7e6d9cf52e459a3aba1cee9677ed94bdfbdd4"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Verordnung über die dezentrale Kompostierung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "1992-09-22",
+     "units": 5,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "c789a2d4695cc031ad9736a574d2f99e4f9ab6234a9270ea54603f1b0ff39efe"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Strassen-Reglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 58,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "467f651b6d12ea007deaf70b8b05d9e0d45585ebd5f807d13cce4ec58d04afaf"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2",
+   "short": "SRS 7.6-2",
+   "title": "Reklamereglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 31,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "92f7dcd8d05da8c6d53a1c6a1530c031116bd97bb400153c001b8eb1b8fb65c7"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2-1",
+   "short": "SRS 7.6-2.1",
+   "title": "Reklame-Verordnung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.6-2.1",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 13,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.6-2.1",
+     "sha256": "7fdf5b1945319e9304104c9d5049e3abcbc083aa9bb9bd87cf5751fa90d691f9"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Reglement über das nächtliche Dauerparkieren auf öffentlichem Grund",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 16,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "0a9c4002a9b2905f463a89fcc785956470a22de6a1f5e704b5ca7357df5de6d0"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1",
+   "short": "SRS 7.7-1.1",
+   "title": "Verordnung zum Reglement über das nächtliche Dauerparkieren auf öffentlichem Grund",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.7-1.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 5,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/7.7-1.1",
+     "sha256": "fd7efc8122560776d3934293df1aa5edc52546f421319f7b2e5fbab097248eb2"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2001-12-14",
+     "units": 15,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "298c8f71d814aea0e079dcc9e516e1fb18a90b74d4b92114194c99628780d81b"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Verordnung zum Bestattungs- und Friedhofreglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2001-12-14",
+     "units": 34,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "58e4146938a8f038f7d7e24c6d030060727f0c19840c20f9f94f00f6cb0e2504"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über die Hundehaltung",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 14,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "6ed42d3d4df36fb4a024520eba38ad0e108f0e3ba2a92fd4b236396001404ddb"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Reglement über die Kinder- und Jugendzahnpflege",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 8,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "fa89c0dfb3eaecead800fcdffa4cef9863ebbc04813cf5dac50e3e7ed6c604a9"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1-1",
+   "short": "SRS 8.7-1.1",
+   "title": "Verordnung über die Subventionsbeiträge in der Kinder- und Jugendzahnpflege",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.7-1.1",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 4,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.7-1.1",
+     "sha256": "d775204e7627911f8ab0441b9eb83b9b16231e76a5ca99f4673792ad73cd88cd"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Reglement über Zusatzbeiträge nach dem Ergänzungsleistungsgesetz",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "8228f754be51f2632c038b8adc26cfd5291ab12a36f678d96b9071f51de4a35f"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2-1",
+   "short": "SRS 8.7-2.1",
+   "title": "Verordnung zum Reglement über Zusatzbeiträge nach dem Ergänzungsleistungsgesetz",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.7-2.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 3,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.7-2.1",
+     "sha256": "e73379444b9a14056c611fb8fbff9ab1de19220d964ac745efdf34c258f3ac46"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Verordnung über Lagerbeiträge",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 10,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "421a01be61fff4fc5db922f005dd11cc2a725116331dd57c9320888e28267ded"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-1",
+   "short": "SRS 8.8-1",
+   "title": "Verordnung über den Wohnungsexperten bzw. die Wohnungsexpertin",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.8-1",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 5,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.8-1",
+     "sha256": "ec0ccd8452a3606b6e29b27ddc340f91814b1835b59affee6ea35caeaefad6ed"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-2",
+   "short": "SRS 8.8-2",
+   "title": "Reglement über die Mietzinsbeiträge",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.8-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 12,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.8-2",
+     "sha256": "4073af5db2d5c841c15433aa0bf0ebc2f1d90ca3fe9c84da4ed9a9a6fab041ff"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-2-1",
+   "short": "SRS 8.8-2.1",
+   "title": "Verordnung zum Reglement über die Mietzinsbeiträge",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/8.8-2.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/8.8-2.1",
+     "sha256": "bec46e9fe54eb0de40db5bf8646630149a3b2c57f802e037cfabf22866f9ef3a"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Verordnung über die Erteilung von Gelegenheitswirtschaftsbewilligungen und Freinachtbewilligungen",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 11,
+     "source_url": "https://ettingen.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "9bc3e97a479dcac9e09a103546b16a31b8d01289def82e1d489a9b19df401cac"
+    }
+   ]
+  }
+ ]
+}
