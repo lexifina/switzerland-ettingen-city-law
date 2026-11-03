@@ -686,6 +686,20 @@
      "sha256": "9bc3e97a479dcac9e09a103546b16a31b8d01289def82e1d489a9b19df401cac"
     }
    ]
+  },
+  {
+   "slug": "5-3-1-1",
+   "short": "5.3-1.1",
+   "title": "Statuten Zweckverband Bevölkerungs- und Zivilschutz Leimental",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/5.3-1.1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 29,
+     "source_url": "https://ettingen.tlex.ch/api/de/versions/121/pdf_file",
+     "sha256": "653877fabe12938ae40b127990ab67655217c11abd6e661ef036a22decb29f29"
+    }
+   ]
   }
  ]
 }

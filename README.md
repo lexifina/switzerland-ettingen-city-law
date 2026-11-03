@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-49 acts with 49 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+50 acts with 50 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -61,6 +61,7 @@ The text is in German, exactly as the municipality publishes it.
 | `8-8-2/` | Reglement über die Mietzinsbeiträge (SRS 8.8-2) | 1 | as enacted, 1 January 2024 |
 | `8-8-2-1/` | Verordnung zum Reglement über die Mietzinsbeiträge (SRS 8.8-2.1) | 1 | as enacted, 1 January 2024 |
 | `9-5-1/` | Verordnung über die Erteilung von Gelegenheitswirtschaftsbewilligungen und Freinachtbewilligungen (SRS 9.5-1) | 1 | as enacted, 1 September 2014 |
+| `5-3-1-1/` | Statuten Zweckverband Bevölkerungs- und Zivilschutz Leimental (SRS 5.3-1.1) | 1 | one version (the oldest available), 1 January 2003 |
 
 ## Source
 
@@ -90,3 +91,7 @@ The author of a commit is the amending act, named by its entry in the chronologi
 ## Limits
 
 This is not an official publication. The binding text is the one the municipality publishes as binding. The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+
+## Acts published only as PDF
+
+Some acts of this collection are published only as a PDF. Those with a text layer and articles (agreements, statutes of associations, regulations) are added in parts named `50-pdf-erlasse-NN`: one version each, the current text, dated by the in-force day the collection gives for it and credited to its Beschluss. The text is read from the PDF (PyMuPDF) and checked against a second, independent reader (poppler pdftotext): the letters and digits are equal and every line is found in order. Land-use plans, maps and acts without articles are not included.
