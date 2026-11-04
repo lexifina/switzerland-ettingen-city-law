@@ -700,6 +700,20 @@
      "sha256": "653877fabe12938ae40b127990ab67655217c11abd6e661ef036a22decb29f29"
     }
    ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "7.1-2",
+   "title": "Teilzonenplan «Kammermatten – Toggessenmatten»: Teilzonenreglement",
+   "url": "https://ettingen.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 31,
+     "source_url": "https://ettingen.tlex.ch/api/de/versions/106/pdf_file",
+     "sha256": "6fa830c02803c7aff54a131268736e89af19dda885bbacb8d818c5a2c2d8afdb"
+    }
+   ]
   }
  ]
 }

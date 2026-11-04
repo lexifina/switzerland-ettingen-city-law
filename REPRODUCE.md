@@ -1,12 +1,13 @@
 # How this repository was made (Ettingen (city))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-04, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Gemeinde Ettingen: SRS (LexWork) | <https://ettingen.tlex.ch/> | 2026-11-01 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Gemeinde Ettingen: SRS, official Teilzonenreglement PDF | <https://ettingen.tlex.ch/api/de/versions/106/pdf_file> | 2026-11-04 | Official enactments are not protected by copyright (Swiss URG art. 5 para. 1 let. a). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -64,20 +65,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `8-8-2-1` | Verordnung zum Reglement über die Mietzinsbeiträge | 1 | 2024-01-01 to 2024-01-01 |
 | `9-5-1` | Verordnung über die Erteilung von Gelegenheitswirtschaftsbewilligungen und Freinachtbewilligungen | 1 | 2014-09-01 to 2014-09-01 |
 | `5-3-1-1` | Statuten Zweckverband Bevölkerungs- und Zivilschutz Leimental | 1 | 2003-01-01 to 2003-01-01 |
+| `7-1-2` | Teilzonenplan «Kammermatten – Toggessenmatten»: Teilzonenreglement | 1 | 2010-03-30 to 2010-03-30 |
 
-The build made 50 commits:
+The build made 51 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 50 | first version of an act |
+| 51 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 55 laws in the record.
-- 80 tags.
+- 81 tags.
 
 ## Dates
 
@@ -89,8 +91,8 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fd4e68634aebfa7de17d6abd8fe7ccf05b898b6f92374d1bfbff1ec40e517084` (658806 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `a4f31674a600c0821d5911d4c2a15e622fc90e993c5dd6bf771a968488974281` (712500 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -106,6 +108,10 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- One current-text version; first_law is null. In-force basis: the official current-version metadata states 30.03.2010 (Beschlussdatum 14.10.2009); the older original enactment date 06.04.2004 is not used.
+- The native PDF text layer is preserved page by page, including textual tables and approval information. Source deletion markings are retained as Markdown strikethrough; the record retains the publisher's change-marked presentation rather than inventing an unmarked consolidation.
+- The source states on page 4 that the commentary is not legally effective; pages 4, 6, ..., 30 are identified as nonbinding source commentary.
+- Graphic illustrations are deferred from this text record.
 
 ## What AI did and did not do
 
@@ -117,3 +123,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the city's own collection.
+- A model inspected source page images and designed mechanical native-text extraction. It wrote no law text and corrected no OCR.
