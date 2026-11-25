@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Ettingen only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:04 UTC, Ettingen: systematic collection (ettingen.tlex.ch): 25 addresses read; 9 added, 0 changed, 0 removed; changes found; 9 not published, 0 of them with no reason.
+**Last check:** 2026-11-25 06:03 UTC, Ettingen: systematic collection (ettingen.tlex.ch): 17 addresses read; 0 added, 1 changed, 0 removed; changes found; 9 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Ettingen: systematic collection (ettingen.tlex.ch)](https://ettingen.tlex.ch/) | `<act>/` | daily | 2026-11-24 12:04 UTC | changes found | watched |
+| [Ettingen: systematic collection (ettingen.tlex.ch)](https://ettingen.tlex.ch/) | `<act>/` | daily | 2026-11-25 06:03 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 06:03](checks/2026-11.md#ch-lexwork-ettingen-city-20261125t060321z) | lexwork-ettingen-city | 17 | 0 | 1 | 0 | 9 (0) | changes found | [2](https://github.com/lexifina/switzerland-ettingen-city-law/compare/0e7ae4b5981c...a02e5d8176bc) |
 | [2026-11-24 12:04](checks/2026-11.md#ch-lexwork-ettingen-city-20261124t120402z) | lexwork-ettingen-city | 25 | 9 | 0 | 0 | 9 (0) | changes found | — |
 
 ## Check it yourself
