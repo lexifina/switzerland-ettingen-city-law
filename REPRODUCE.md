@@ -1,6 +1,6 @@
 # How this repository was made (Ettingen (city))
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -23,7 +23,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `1-6-2-behordenreglement` | Reglement über Rechte, Pflichten und Entschädigung von Behörden, Organen und Nebenfunktionen | 1 | 2015-01-01 to 2015-01-01 |
 | `1-6-3` | Verordnung zu den Kommissionen | 1 | 2024-11-01 to 2024-11-01 |
 | `1-7-1` | Personalreglement | 1 | 2015-01-01 to 2015-01-01 |
-| `1-7-1-1` | Personalverordnung | 1 | 2021-06-01 to 2021-06-01 |
+| `1-7-1-1` | Personalverordnung | 2 | 2021-06-01 to 2026-05-26 |
 | `4-1-1-feb-reglement` | Reglement über die familienergänzende Kinderbetreuung und die frühe Förderung der deutschen Sprache | 1 | 2021-08-01 to 2021-08-01 |
 | `4-1-1-1-feb-verordnung` | Verordnung zum Reglement über die familienergänzende Kinderbetreuung und die frühe Förderung der deutschen Sprache | 1 | 2021-08-10 to 2021-08-10 |
 | `4-8-1` | Verordnung über Gemeindebeiträge an Ettinger Vereine | 1 | 2014-09-01 to 2014-09-01 |
@@ -67,19 +67,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `5-3-1-1` | Statuten Zweckverband Bevölkerungs- und Zivilschutz Leimental | 1 | 2003-01-01 to 2003-01-01 |
 | `7-1-2` | Teilzonenplan «Kammermatten – Toggessenmatten»: Teilzonenreglement | 1 | 2010-03-30 to 2010-03-30 |
 
-The build made 51 commits:
+The build made 52 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 51 | first version of an act |
-| 0 | one law on its in-force day |
+| 13 | baseline texts where the record starts |
+| 39 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 55 laws in the record.
-- 81 tags.
+- 56 laws in the record.
+- 83 tags.
 
 ## Dates
 
@@ -91,13 +93,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a4f31674a600c0821d5911d4c2a15e622fc90e993c5dd6bf771a968488974281` (712500 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `fcbeea7efca9ddfbe930915a11998e14f32f67df72dd3ae6a8d61296e88477ea` (774607 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-51 versions of 51 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -115,7 +117,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

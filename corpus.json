@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/basel-landschaft/ettingen/acts",
+ "path": "switzerland/basel-landschaft/ettingen/acts",
+ "scope": "selected-acts",
+ "acts": 51,
+ "future_branch": "zukunft",
+ "publisher": "Gemeinde Ettingen, SRS (ettingen.tlex.ch)",
+ "name": "Ettingen (city)",
+ "language": "de",
+ "coverage": "51 acts of Ettingen (city) with every dated version the source gives (52 versions), in force from 1992-09-22 to 2026-11-04",
+ "history": "in-force",
+ "history_from": "1992-09-22",
+ "record_to": "2026-11-04",
+ "checked_on": "2026-11-25",
+ "record_note": "Texts from Gemeinde Ettingen, SRS (ettingen.tlex.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}

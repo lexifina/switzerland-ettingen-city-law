@@ -1,11 +1,11 @@
 {
-  "path": "ch-bl-ettingen",
-  "code": "CH-BL-ETTINGEN",
-  "name": "Ettingen (city)",
-  "level": "municipality",
-  "parent": "ch-bl",
-  "repo": "https://github.com/lexifina/switzerland-ettingen-city-law",
-  "build": "built: Gemeindeordnung and municipal enactments (51 acts, 51 versions) from the SRS; graphic illustrations deferred",
-  "language": "de",
-  "sources": 1
+ "path": "switzerland/basel-landschaft/ettingen",
+ "code": "CH-BL-ETTINGEN",
+ "name": "Ettingen (city)",
+ "level": "municipality",
+ "parent": "switzerland/basel-landschaft",
+ "repo": "https://github.com/lexifina/switzerland-ettingen-city-law",
+ "build": "built: Gemeindeordnung and municipal enactments (51 acts, 51 versions) from the SRS; graphic illustrations deferred",
+ "language": "de",
+ "sources": 1
 }
