@@ -8,8 +8,8 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Ettingen: Systematische Sammlung (ettingen.tlex.ch) · `switzerland/basel-landschaft/ettingen/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 06:03 UTC**.
-- Vorschriften hier: 51; aktuell gegenüber der Quelle: 50; an der Quelle geändert seit der Fassung hier: 1; nicht mehr an der Quelle: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 05:48 UTC**.
+- Vorschriften hier: 51; aktuell gegenüber der Quelle: 51; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 8 der 51 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 9 (hier vorhanden, an der Quelle nicht mehr: 9); ohne Grund: 0.
 

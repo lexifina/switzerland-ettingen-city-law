@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:26:49Z",
+ "generated": "2026-11-26T07:18:10Z",
  "latest": {
   "lexwork-ettingen-city|switzerland/basel-landschaft/ettingen/acts": {
    "attempt": 1,
@@ -14,67 +14,49 @@
    },
    "census": {
     "checked": 8,
-    "current": 50,
+    "current": 51,
     "gone": 0,
     "held": 51,
     "not_at_source": 9,
     "out_of_scope": 4,
-    "pending": 1,
+    "pending": 0,
     "repo": 51,
     "source_in_scope": 51
    },
-   "check_id": "ch-lexwork-ettingen-city-20261125T060321Z",
-   "commits": {
-    "count": 2,
-    "from": "0e7ae4b5981c4e2d628dbe8ada3450f69e7a03d5",
-    "to": "a02e5d8176bc7ea27530e467bc9cb872cda7cc99"
-   },
+   "check_id": "ch-lexwork-ettingen-city-20261126T054837Z",
+   "commits": null,
    "corpus": "switzerland/basel-landschaft/ettingen/acts",
    "error": null,
-   "finished": "2026-11-25T06:03:53Z",
+   "finished": "2026-11-26T05:48:57Z",
    "flags": [],
    "gap": 9,
    "note": "ettingen.tlex.ch: index of 64 acts (64 in force); held 51; 0 in force and in scope not held yet, 4 out of scope (land-use plans, concessions, directives, forms: as the builder), 9 published only as PDF; 8 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "changed",
+   "outcome": "no-change",
    "published": {
     "added": [],
-    "changed": [
-     "1.7-1.1"
-    ],
+    "changed": [],
     "removed": []
    },
-   "requests": 17,
+   "requests": 16,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "1.7-1.1"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "64 entries, 64 in force (ettingen.tlex.ch)",
    "source": "lexwork-ettingen-city",
-   "started": "2026-11-25T06:03:21Z",
+   "started": "2026-11-26T05:48:37Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "1-7-1-1"
-     ],
-     "new_acts": []
-    },
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
     "nothing_new": 0,
-    "parts": [
-     "95-watch-20261125-001.json"
-    ],
+    "parts": [],
     "pdf_only": 0,
-    "re_read": 1,
+    "re_read": 0,
     "unreadable": 0
    },
    "verify": {
@@ -82,10 +64,8 @@
     "examples": [],
     "held": 51,
     "method": "each act compared this check (8 of 51: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ettingen.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
-    "not_compared": {
-     "50-pdf-erlasse-01.json": 1
-    },
-    "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
+    "not_compared": {},
+    "not_compared_why": null,
     "ok": true,
     "swept": 8,
     "versions_checked": 8,
