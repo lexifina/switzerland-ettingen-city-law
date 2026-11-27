@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Ettingen: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-26 05:48 UTC, Ettingen: Systematische Sammlung (ettingen.tlex.ch): 16 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 9 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-27 05:50 UTC, Ettingen: Systematische Sammlung (ettingen.tlex.ch): 16 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 9 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Ettingen: Systematische Sammlung (ettingen.tlex.ch)](https://ettingen.tlex.ch/) | `<act>/` | täglich | 2026-11-26 05:48 UTC | keine Änderung | beobachtet |
+| [Ettingen: Systematische Sammlung (ettingen.tlex.ch)](https://ettingen.tlex.ch/) | `<act>/` | täglich | 2026-11-27 05:50 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:50](checks/2026-11.md#ch-lexwork-ettingen-city-20261127t055039z) | lexwork-ettingen-city | 16 | 0 | 0 | 0 | 9 (0) | keine Änderung | — |
 | [2026-11-26 05:48](checks/2026-11.md#ch-lexwork-ettingen-city-20261126t054837z) | lexwork-ettingen-city | 16 | 0 | 0 | 0 | 9 (0) | keine Änderung | — |
 | [2026-11-25 06:03](checks/2026-11.md#ch-lexwork-ettingen-city-20261125t060321z) | lexwork-ettingen-city | 17 | 0 | 1 | 0 | 9 (0) | Änderungen gefunden | [2](https://github.com/lexifina/switzerland-ettingen-city-law/compare/0e7ae4b5981c...a02e5d8176bc) |
 | [2026-11-24 12:04](checks/2026-11.md#ch-lexwork-ettingen-city-20261124t120402z) | lexwork-ettingen-city | 25 | 9 | 0 | 0 | 9 (0) | Änderungen gefunden | — |
